@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevAshiZ
--     University ID: IT22056870
 - 📫 You can reach me via hgp.ashi@gmail.com
 - 😄 Pronouns: He/Him
+-     University ID: IT22056870
 
 <!---
 DevAshiZ/DevAshiZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
