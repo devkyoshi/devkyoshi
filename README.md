@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DevAshiZ
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning MERN stack
+-     University ID: IT22056870
 - 📫 You can reach me via hgp.ashi@gmail.com
 - 😄 Pronouns: He/Him
 
